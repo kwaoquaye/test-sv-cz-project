@@ -2,7 +2,7 @@
   "name": "vite-project",
   "homepage": "",
   "private": true,
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "commitizen": "commitizen init cz-conventional-changelog --save-dev --save-exact",
     "commit": "git-cz",
-    "release": "standard-version"
+    "release": "standard-version",
+    "release:major": "standard-version -- --release-as major"
   },
   "dependencies": {
     "react": "^18.2.0",
