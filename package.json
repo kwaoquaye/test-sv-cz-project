@@ -2,7 +2,7 @@
   "name": "vite-project",
   "homepage": "",
   "private": true,
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -21,8 +21,14 @@
     "@types/react-dom": "^18.0.8",
     "@vitejs/plugin-react": "^2.2.0",
     "commitizen": "^4.2.6",
+    "cz-conventional-changelog": "^3.3.0",
     "standard-version": "^9.5.0",
     "typescript": "^4.6.4",
     "vite": "^3.2.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
