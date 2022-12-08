@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.1](https://github.com/kwaoquaye/test-sv-cz-project/compare/v0.1.0...v0.1.1) (2022-12-08)
+
+
+### Features
+
+* another one... it's in bid to create hello world text ([dab7c40](https://github.com/kwaoquaye/test-sv-cz-project/commit/dab7c40d4961d85daaa6c317303237c815f5921c))
+* **app.tsx:** some change bi oo 😁 ([9e89220](https://github.com/kwaoquaye/test-sv-cz-project/commit/9e8922049ca795dca528ee6a5dc004762894888f))
+* same as it's nearest neighbor ([8ab6b33](https://github.com/kwaoquaye/test-sv-cz-project/commit/8ab6b338c7442afe115490cb1f95c64f1e7d107a))
+* same same as nearest ([c91f81a](https://github.com/kwaoquaye/test-sv-cz-project/commit/c91f81af763e1a4e4602ca234aecb27422044fcf))
+
 ## [0.1.0](https://github.com/kwaoquaye/test-sv-cz-project/compare/v0.0.5...v0.1.0) (2022-12-08)
 
 
