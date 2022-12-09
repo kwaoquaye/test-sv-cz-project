@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/kwaoquaye/test-sv-cz-project/compare/v0.1.1...v0.1.2) (2022-12-09)
+
+
+### Features
+
+* test is done ([20839e2](https://github.com/kwaoquaye/test-sv-cz-project/commit/20839e25c1097b53aa72062b04fc78461af6aedb))
+
 ### [0.1.1](https://github.com/kwaoquaye/test-sv-cz-project/compare/v0.1.0...v0.1.1) (2022-12-08)
 
 
